@@ -1,0 +1,7 @@
+Content:
+venv/
+__pycache__/
+*.pyc
+employee_data.db
+reports/
+.env
